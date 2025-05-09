@@ -10,7 +10,7 @@ Key Objectives:
 - Objective 3: Ensure the model is interpretable to provide actionable business insights.
 
 ## **2. Data Sources**
-(Travel Insurance Prediction Dataset)[https://www.kaggle.com/code/harinuu/travel-insurance-prediction-using-decisiontree/input]
+[Travel Insurance Prediction Dataset](https://www.kaggle.com/code/harinuu/travel-insurance-prediction-using-decisiontree/input)
 
 ## **3. Technologies Used**
 - Programming Language: Python (Pandas, NumPy, Scikit-learn)
@@ -20,21 +20,11 @@ Key Objectives:
 - Class Balancing: SMOTE
 - Environment: Jupyter Notebook
 
-## **4. Project Structure**
-├── README.md                      <- The top-level README for developers using this project.
-├── Data                           <- Original Trave Insurance dataset.
-│
-├── Model Gradient Boosting        <- Final Model.
-│
-├── Travel Insurance Prediction.ipynb  <- Jupyter notebook for data processing and modeling.
-│
-└── requirements.txt              <- List of dependencies to recreate the environment.
-
 ## **5. Summary**
 - Customers with higher income, frequent travel habits, and chronic diseases are more likely to purchase travel insurance.
 - SHAP analysis shows AnnualIncome, Age, and Employment Type are key drivers of prediction.
 
 ## 6. Contact
 - Name: Alfidhiya Amany
-- Email: (My Email)[alfidhiya12@gmail.com]
-- LinkedIn: (My LinkedIn)[https://www.linkedin.com/in/alfidhiya-amany-ramli-22b79228a/]
+- Email: [Alfi's Email](alfidhiya12@gmail.com)
+- LinkedIn: [Alfi's LinkedIn](https://www.linkedin.com/in/alfidhiya-amany-ramli-22b79228a/)
